@@ -1,1 +1,62 @@
-Hello World!
+# Maven Movies SQL Analysis
+
+📌 Overview
+
+This project presents a structured SQL-based analysis of the Maven Movies DVD rental database. The analysis is organized into modular SQL files, each answering a specific business question related to customers, films, categories, revenue, and store performance.
+
+The project demonstrates practical SQL skills used by Data Analysts and Business Intelligence professionals to support data-driven decision-making.
+
+🗂️ Dataset
+
+The Maven Movies database is a relational dataset containing:
+
+Customers, Films, Categories
+
+Rentals, Payments
+
+Inventory, Staff, Stores
+
+Its structure supports complex joins and real-world analytical scenarios.
+
+🎯 Analysis Objectives
+
+Analyze customer rental behavior and spending
+
+Identify top-performing films and categories
+
+Track revenue trends over time
+
+Evaluate store and operational performance
+
+Produce an executive-level business summary
+
+🛠️ Tools & Skills
+
+SQL (MySQL / PostgreSQL)
+
+Joins & Aggregations
+
+Subqueries & CTEs
+
+Date-based analysis
+
+Business-focused querying
+
+
+
+
+📈 Business Value
+
+Enables customer segmentation and targeted marketing
+
+Supports inventory and genre optimization
+
+Improves revenue tracking and forecasting
+
+Provides management with a single-query performance snapshot
+
+🧠 Key Takeaway
+
+This project highlights the ability to design well-organized, scalable SQL analysis, translating raw transactional data into meaningful business insights.
+
+
